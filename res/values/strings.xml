@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContextBAC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="fileExplore_name">SD卡文件浏览器</string>
+	<string name="managerBlock">管理机密名单</string>
+	<string name="fileExplorer_name">SD卡文件浏览器</string>
+	
+	<string name="fileManager_name">文件机密级别管理</string>
+	<string name="face_detection">安全监控</string>
+</resources>
